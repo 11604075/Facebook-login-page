@@ -1,0 +1,136 @@
+.head{
+    height: 90px;
+    width: 100%;
+    background:#3b5998
+    ;
+}
+body{
+    margin: 0;
+}
+.logo{
+    width:50%;
+    padding-top:55px;
+    float: left;
+
+  
+}
+.login{
+    width:50%;
+   
+    float: left
+
+   
+}
+.table{
+    padding-top: 5px;
+    padding-left: 72px;
+}
+
+.email{
+    color: white;
+
+}
+.password{
+   color:white;
+   padding-left: 20px;
+
+
+}
+.passwordin{
+    padding-left: 21px;
+}
+
+.login_button{
+    color:white;
+    background:#4267b2;
+    cursor:pointer
+
+}
+.login_button:hover{
+    background: blue;
+}
+.forgotten{
+    color:white;
+    padding-left: 21px;
+}
+
+.logoname{
+    color:white;
+    font-size: 29px;
+    padding-left: 139px;
+    padding-top: 5px;
+    font-weight:bold
+
+}
+
+.mid_section{
+    width: 100%;
+    height: 661px;
+    background: linear-gradient(white,#D3D8E8);
+    
+}
+.left_section{
+    width: 50%;
+    float: left;
+}
+.right_section{
+    width: 50%;
+    float: left;
+}
+
+.sentence{
+    padding-left: 139px;
+    color:darkblue
+}
+
+img{
+    padding-left: 139px;
+}
+.account{
+    padding-left: 80px;
+}
+.account1{
+    padding-left: 80px;
+}
+.form{
+    padding-left: 80px;
+}
+.name{
+    border-radius: 5px;
+}
+.surname{
+    border-radius: 5px;
+    padding-left: 2px;
+}
+.mobile{
+    border-radius: 5px;
+    width: 327px;
+    margin-top: 5px;
+}
+
+.pass{
+    border-radius: 5px;
+    width: 327px;
+    margin-top: 5px;
+}
+
+.para{
+    font-size: 11px;
+}
+.submit{
+    background:#00a400;
+    width:190px ;
+    border-radius: 5px;
+    height: 40px;
+    border-color: white;
+}
+
+.data{
+    font-weight: 10px;
+    color:darkblue
+}
+
+.cookie{
+    font-weight: 10px;
+    color:darkblue
+}
